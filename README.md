@@ -1,9 +1,7 @@
 
-<div class="cabecera" style="border: solid 2px #dea01e; border-radius: 10px; display:flex; align-items:center; justify-content:space-between;padding:10px">
+<div class="cabecera" align=left display=block>
 
-<h1 style="color:#dea01e; font-weight:bold">Grace Silva</h1>
-
-<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" style="border-radius:10px">
+<h1 style="color:#dea01e; font-weight:bold">Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right></h1>
 </div>
 <br>
 <div id="about-me">
