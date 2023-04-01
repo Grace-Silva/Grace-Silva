@@ -1,6 +1,6 @@
 
-<div class="cabecera" style="display:flex; align-items:center; justify-content:space-between; padding:10px;">
-<h1 class="title" style="color:#dea01e;">Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right style="border-radius:20px; border:solid 5px red"></h1>   
+<div class="cabecera" style="display:flex; align-items:center; justify-content:space-between;">
+<h1 class="title" style="color:#dea01e;">Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right style="border-radius:20px; border:solid 5px red; padding:0;"></h1>   
 </div>
 <br>
 
