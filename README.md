@@ -1,13 +1,12 @@
 
 <div class="cabecera" align=center>
-<h1>Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right></h1>
-    
+<h1>Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right></h1>   
 </div>
 <br>
 
 <div id="about-me">
     <h3>Programadora Autodidacta</h3>
-    <p style="color: #f3faff">Soy estudiante de diseño y desarrollo web. Me emociona y sorprende cada pequeño proyecto que puedo hacer, ya que a futuro             reflejarán mi esfuerzo y me ayudarán a crecer como profesional y ser humano.</p>
+    <p style="color: #f3faff">Soy estudiante de diseño y desarrollo web. Me emociona y sorprende cada pequeño proyecto que puedo hacer, ya que a futuro             reflejarán mi esfuerzo y me ayudarán a crecer como profesional y ser humano. Actualmente </p>
 </div>
 
 <div id="skills">
