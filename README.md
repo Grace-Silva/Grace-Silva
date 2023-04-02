@@ -1,6 +1,6 @@
 
 <div class="cabecera">
-<h1 class="title">Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right style="border-radius:50%; border:solid 3px #006AFF; padding:0;"></h1>   
+<h1 class="title">Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right style="border-radius:50%; border:solid 3px #C6FF37; padding:0;"></h1>   
 </div>
 <br>
 
