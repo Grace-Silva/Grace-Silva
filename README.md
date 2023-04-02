@@ -21,7 +21,7 @@
 <div class="status" align=center> 
 <a>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grace-silva&theme=transparent&hide_border=true&border_radius=10&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&type=png)](https://git.io/streak-stats)</a>&nbsp;<a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace-silva&show_icons=true&theme=transparent&hide_border=true)</a>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grace-silva&theme=transparent&hide_border=true&border_radius=10&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&type=png)](https://git.io/streak-stats)</a> <a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace-silva&show_icons=true&theme=transparent&hide_border=true)</a>
 
 </div>
 
