@@ -19,11 +19,10 @@
 
 [comment]: <> (Esto es un comentario que otros perfiles no verán)
 <div class="status" align=center> 
-<a>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grace-silva&theme=transparent&hide_border=true&border_radius=10&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&type=png)](https://git.io/streak-stats)</a> <a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace-silva&show_icons=true&theme=transparent&hide_border=true)</a> <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-silva&layout=compact&theme=transparent&hide_border=true)](https://github.com/grace-silva/github-readme-stats)</a>
+ <a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace-silva&show_icons=true&theme=transparent&hide_border=true)</a> <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-silva&layout=compact&theme=transparent&hide_border=true)](https://github.com/grace-silva/github-readme-stats)</a> <a>
 
-</div>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grace-silva&theme=transparent&hide_border=true&border_radius=10&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&type=png)](https://git.io/streak-stats)</a> </div>
 
 
 
