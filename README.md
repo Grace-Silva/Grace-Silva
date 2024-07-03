@@ -1,6 +1,6 @@
 
 <div class="cabecera">
-<h1 class="title">Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right title=" I made this Walking Link in Photoshop." border-radius="50%" border="solid 3px rgb(198, 255, 55)" padding="0px" width="90px" height="90px"></h1>   
+<h1 class="title">Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right title=" I made this Walking Link in Photoshop." border-radius="50%" border="solid 3px rgb(198, 255, 55)" padding="0px" width="90px" height="90px" position="absolute"></h1>   
 </div>
 <br>
 
