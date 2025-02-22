@@ -1,13 +1,13 @@
 
-<div class="cabecera">
-<h1 class="title">Grace Silva<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" align=right title=" I made this Walking Link in Photoshop." border-radius="50%" border="solid 3px rgb(198, 255, 55)" padding="0px" width="90px" height="90px" position="absolute"></h1>   
+<div class="cabecera" style="position: relative">
+<h1 class="title">Grace Silva</h1> 
+<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" title=" I made this Walking Link in Photoshop." style="position: absolute; top: 25%; right: 0%; width: 64px; height: 64px;border-radius: 50%">
 </div>
 <br>
 
 <div class="about-me">
-    <h3><em>Self-taught Programmer.</em></h3>
-    <p>Hello I am Grace Silva from Colombia <img src="https://cdn-icons-png.flaticon.com/512/9993/9993517.png" width="16px"/>.<br>I'm Analyst of Information    Systems. I am currently learning Web Development.<br>I love reading and experimenting with new tools and technologies.<br>In my spare time I like to        practice Photo Retouching and Digital Illustration.<br>
-    The repositories you will find here are the result of commitment and enthusiasm that I have to learn.I hope you like them and thank you for staying. :wink:</p>
+    <p>Hello I am Grace Silva from Colombia <img src="https://cdn-icons-png.flaticon.com/512/9993/9993517.png" width="16px"/>.<br>I'm a System Analyst and Systems Enginnering student. I am currently learning Web Development.<br>I love reading and experimenting with new tools and technologies.<br>In my spare time I like to practice Photo Retouching and Digital Illustration.<br>
+    The repositories you will find here are the result of commitment and enthusiasm that I have to learn.I hope you like them and thank you for staying. 😉</p>
 </div>
 <br>
 
@@ -24,7 +24,7 @@
 
  <a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace-silva&show_icons=true&theme=transparent&hide_border=true)</a> <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grace-silva&layout=compact&theme=transparent&hide_border=true)](https://github.com/grace-silva/github-readme-stats)</a><br><a>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grace-silva&theme=transparent&hide_border=true&border_radius=10&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly&type=png)](https://git.io/streak-stats)</a> </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=grace-silva/&theme=transparent&hide_border=true)](https://git.io/streak-stats)</a> </div>
 
 </div>
 
