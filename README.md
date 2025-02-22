@@ -1,7 +1,7 @@
 
-<div class="cabecera" style="position: relative">
+<div class="cabecera" position= "relative" border="solid 1px white">
 <h1 class="title">Grace Silva</h1> 
-<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" title=" I made this Walking Link in Photoshop." style="position: absolute; top: 25%; right: 0%; width: 64px; height: 64px;border-radius: 50%">
+<img src="https://github.com/Grace-Silva/PokeMonButton/blob/master/lil-link.gif?raw=true" title=" I made this Walking Link in Photoshop." align="right" width="68px">
 </div>
 <br>
 
